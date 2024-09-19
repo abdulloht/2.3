@@ -1,0 +1,205 @@
+.grandpa {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+}
+
+.father1 {
+    width: 240px;
+    height: 240px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+}
+
+.father2 {
+    width: 240px;
+    height: 240px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    border-radius: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+}
+
+.father3 {
+    width: 240px;
+    height: 240px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    flex-wrap: wrap;
+    
+}
+
+.father4 {
+    width: 240px;
+    height: 240px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding-top: 8px;
+    padding-left: 4px;
+    padding-right: 4px;
+    justify-content: space-between
+}
+
+.father5 {
+    width: 240px;
+    height: 240px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+}
+
+.father6 {
+    width: 240px;
+    height: 240px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    justify-content: end;
+}
+
+.father7 {
+    width: 240px;
+    height: 240px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    justify-content: center;
+}
+
+.father8 {
+    width: 240px;
+    height: 240px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 4px;
+    justify-content: space-between
+}
+
+.father9 {
+    width: 240px;
+    height: 240px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    
+}
+
+.father10 {
+    width: 240px;
+    height: 235px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    align-items: end;
+    padding-bottom: 8px;
+}
+
+.father11 {
+    width: 240px;
+    height: 248px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    padding-left: 8px;
+}
+
+.father12 {
+    width: 240px;
+    height: 240px;
+    background-color: blueviolet;
+    border: black 1px solid;
+    border-radius: 8px;
+    display: flex;
+    gap: 8px;
+    padding-top: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: space-around;
+}
+
+.chid {
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 8px;
+    border: black 1px solid;
+
+}
+
+.chid1 {
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 8px;
+    border: black 1px solid;
+}
+
+.chid2 {
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 8px;
+    border: black 1px solid;
+    margin-top: 8px;
+}
+
+.chid3 {
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 8px;
+    border: black 1px solid;
+    margin-top: 8px;
+}
+.chid4 {
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 8px;
+    border: black 1px solid;
+    margin-bottom: 127px;
+}
